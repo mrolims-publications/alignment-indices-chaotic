@@ -23,7 +23,6 @@ Outputs:
 
 import os
 import sys
-import numpy as np
 from pynamicalsys import DiscreteDynamicalSystem as dds
 from models import cat_map, cat_map_jacobian
 from parameters import CATMAP
