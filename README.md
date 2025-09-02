@@ -8,6 +8,7 @@ This project contains the code to generate and plot all the data from all figure
 
 - Python 3.8 or higher.
 - Dependencies listed in [requirements.txt](requirements.txt).
+- This project uses [pynamicalsys](https://pynamicalsys.readthedocs.io/en/latest/) to calculate the Smaller, Generalized, and Linear Dependence Indices.
 
 ### Installation
 
