@@ -91,6 +91,25 @@ The Jupyter notebook [Plots.ipynb](Plots.ipynb) reproduces the figures shown in 
 ├── README.md                 # Project documentation
 ```
 
+## Citation
+
+If you use this repository or parts of it in your work, please consider citing our research paper:
+
+*M. Rolim Sales et al.*, **On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems**, *[Chaos, Solitons and Fractals 205 117884 (2026)](https://doi.org/10.1016/j.chaos.2026.117884)*
+
+```bibtex
+@article{Sales2026,
+title = {On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems},
+journal = {Chaos, Solitons \& Fractals},
+volume = {205},
+pages = {117884},
+year = {2026},
+doi = {https://doi.org/10.1016/j.chaos.2026.117884},
+url = {https://www.sciencedirect.com/science/article/pii/S0960077926000251},
+author = {Matheus Rolim Sales and Edson Denis Leonel and Chris G. Antonopoulos},
+}
+```
+
 ## Contact
 
 For questions, suggestions, or collaboration, please reach out to:
